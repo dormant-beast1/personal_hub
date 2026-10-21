@@ -1,0 +1,12 @@
+{
+  "info": "This is a generated file; do not edit or check into version control.",
+  "plugins": {
+    "android": [],
+    "ios": [],
+    "linux": [],
+    "macos": [],
+    "web": [],
+    "windows": []
+  },
+  "dependencyGraph": []
+}
